@@ -4,6 +4,7 @@ numpy==1.26.4
 Pillow==10.2.0
 matplotlib==3.8.0
 face-recognition
+dlib
 
 #### How it works:
 #1. **Face Encoding**: The system creates a biometric template of your face using advanced facial recognition algorithms
@@ -13,3 +14,4 @@ face-recognition
 ###
 
             
+
